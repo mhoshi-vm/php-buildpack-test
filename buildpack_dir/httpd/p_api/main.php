@@ -4,11 +4,7 @@ include 'header.html';
 ?>
     <h1>Welcome to my website!</h1>
 
-<?php
-// Include the JavaScript file
-include 'script.js';
-?>
-
+    <script src="script.js"></script>
 
 <?php
 
